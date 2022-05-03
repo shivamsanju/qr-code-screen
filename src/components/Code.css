@@ -7,7 +7,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
 .container {
-  width: 22vmax;
+  width: 325px;
   background-color: white;
   border-radius: 20px;
   display: flex;
@@ -17,8 +17,8 @@
 }
 
 .container img {
-  height: 20vmax;
-  width: 20vmax;
+  height: 300px;
+  width: 300px;
   margin: 13px 0px;
   border-radius: 15px;
 }
