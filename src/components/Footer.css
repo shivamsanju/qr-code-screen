@@ -1,0 +1,18 @@
+.footer {
+  position: absolute;
+  top: 97vh;
+  font-family: 'Outfit';
+  color: hsl(220, 15%, 55%);
+  align-self: center;
+  font-size: 14px;
+}
+
+a {
+  text-decoration: none;
+  font-family: 'Outfit';
+  color: hsl(220, 15%, 55%);
+}
+
+a:hover {
+  color: hsl(218, 44%, 22%);
+}

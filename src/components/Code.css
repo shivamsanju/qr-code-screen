@@ -1,0 +1,42 @@
+#root {
+  --white: hsl(0, 0%, 100%);
+  --lightGray: hsl(212, 45%, 89%);
+  --grayishBlue: hsl(220, 15%, 55%);
+  --darkBlue: hsl(218, 44%, 22%);
+}
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+.container {
+  width: 22vmax;
+  background-color: white;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.container img {
+  height: 20vmax;
+  width: 20vmax;
+  margin: 13px 0px;
+  border-radius: 15px;
+}
+
+.container h2 {
+  display: inline;
+  margin: 5px 30px 12px 30px;
+  font-family: 'Outfit';
+  text-align: center;
+  color: var(--darkBlue);
+  font-size: 23px;
+}
+
+.container p {
+  display: inline;
+  margin: 5px 30px 40px 30px;
+  font-family: 'Outfit';
+  text-align: center;
+  color: var(--grayishBlue);
+  font-size: 16px;
+}
