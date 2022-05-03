@@ -1,3 +1,3 @@
 ## Preview
 
-![image](/preview.png)
+![qr-code](./preview.png)
